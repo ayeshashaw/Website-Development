@@ -1,34 +1,34 @@
 # Publicis Website Project
 
 ## Overview
-This project is a responsive website built from a design mockup provided as part of an interview assignment. The goal was to create a fully functional, standards-compliant website using HTML5, CSS3, and JavaScript (if needed) while adhering closely to the provided design.
+This project involves creating a responsive website based on a design mockup provided as part of an interview assignment. The objective was to build a fully functional, standards-compliant website using HTML5, CSS3, and, if necessary, JavaScript, while closely adhering to the provided design.
 
 ## Features
 - Fully responsive design for desktop, tablet, and mobile devices
 - Cross-browser compatibility (Chrome, Firefox, Edge, Safari)
-- Clean, semantic HTML and CSS code
+- Clean and semantic HTML and CSS code
 - Optimized images for fast loading
-- Fixed sidebar navigation on desktop, adaptive for smaller screens
-- Footer with consistent styling across all devices
+- Fixed sidebar navigation on desktop, which adapts for smaller screens
+- A footer with consistent styling across all devices
 
 ## Project Structure
+```
 project-folder/
 │
-├── index.html # Main HTML file
-├── styles.css # Main CSS file
-├── images/ # Folder containing all images/icons used
-├── js/ # Folder for JavaScript files (if any)
-└── README.md # Project documentation
-
-
+├── index.html      # Main HTML file
+├── styles.css      # Main CSS file
+├── images/         # Folder containing all images/icons used
+├── js/             # Folder for JavaScript files (if any)
+└── README.md       # Project documentation
+```
 
 ## Tools & Technologies Used
-- **HTML5** – Semantic structure
-- **CSS3** – Styling, layout, and responsiveness
-- **JavaScript** – Optional, for dynamic functionality (none used in this version)
-- **Figma/Photoshop** – Mockup design reference
-- **Responsive Design Techniques** – Media queries, flexible layouts
-- **Performance Optimization** – Compressed images, minimized CSS
+- **HTML5** – Provides semantic structure
+- **CSS3** – Used for styling, layout, and responsiveness
+- **JavaScript** – Optional for dynamic functionality (not used in this version)
+- **Figma/Photoshop** – Tools for creating mockup design references
+- **Responsive Design Techniques** – Utilizes media queries and flexible layouts
+- **Performance Optimization** – Includes compressed images and minimized CSS
 
 ## How to Run
 1. Clone or download the project folder.
@@ -37,8 +37,8 @@ project-folder/
    - Use VSCode Live Server or any web server to view the website.
 
 ## Notes
-- No external libraries (Bootstrap, Tailwind, jQuery) were used, as per assignment instructions.
-- All images were optimised for the web to improve load performance.
+- No external libraries (e.g., Bootstrap, Tailwind, jQuery) were used, in accordance with assignment instructions.
+- All images were optimized for web use to enhance loading performance.
 - The website layout adapts smoothly to different screen sizes using CSS media queries.
 
 ## Author
