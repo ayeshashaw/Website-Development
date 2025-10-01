@@ -1,15 +1,18 @@
 # Publicis Website Project
 
 ## Overview
-This project involves creating a responsive website based on a design mockup provided as part of an interview assignment. The objective was to build a fully functional, standards-compliant website using HTML5, CSS3, and, if necessary, JavaScript, while closely adhering to the provided design.
+This project involves creating a responsive website based on a design mockup provided as part of an interview assignment. The objective was to build a fully functional, standards-compliant website using HTML5, CSS3, and, if necessary, JavaScript, while closely following the provided design.
+
+## Deployed Link
+[Publicis Website](https://publicsproduction.netlify.app)
 
 ## Features
-- Fully responsive design for desktop, tablet, and mobile devices
-- Cross-browser compatibility (Chrome, Firefox, Edge, Safari)
-- Clean and semantic HTML and CSS code
-- Optimized images for fast loading
-- Fixed sidebar navigation on desktop, which adapts for smaller screens
-- A footer with consistent styling across all devices
+- Fully responsive design for desktop, tablet, and mobile devices.
+- Cross-browser compatibility (Chrome, Firefox, Edge, Safari).
+- Clean and semantic HTML and CSS code.
+- Optimized images for fast loading times.
+- Fixed sidebar navigation on desktop that adapts for smaller screens.
+- A footer with consistent styling across all devices.
 
 ## Project Structure
 ```
@@ -23,18 +26,14 @@ project-folder/
 ```
 
 ## Tools & Technologies Used
-- **HTML5** – Provides semantic structure
-- **CSS3** – Used for styling, layout, and responsiveness
-- **JavaScript** – Optional for dynamic functionality (not used in this version)
-- **Figma/Photoshop** – Tools for creating mockup design references
-- **Responsive Design Techniques** – Utilizes media queries and flexible layouts
-- **Performance Optimization** – Includes compressed images and minimized CSS
+- **HTML5** – Provides semantic structure.
+- **CSS3** – Used for styling, layout, and responsiveness.
 
 ## How to Run
 1. Clone or download the project folder.
 2. Open `index.html` in your web browser.
 3. For local server testing (optional):
-   - Use VSCode Live Server or any web server to view the website.
+   - Use VSCode Live Server or any other web server to view the website.
 
 ## Notes
 - No external libraries (e.g., Bootstrap, Tailwind, jQuery) were used, in accordance with assignment instructions.
